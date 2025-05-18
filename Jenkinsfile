@@ -9,6 +9,12 @@ pipeline {
                 echo "hello world"
             }
         }
+    
+        stage("test") {
+            steps {
+                echo "test webhook"
+            }
+        }
 
         stage("End") {
             steps {
