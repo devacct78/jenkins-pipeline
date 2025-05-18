@@ -22,11 +22,21 @@ pipeline {
             }
         }
 
+        stage("Execute shell") {
+            steps {
+                sh('chmod +x ./scripts/test.sh')
+                sh('./scripts/test.sh')
+            }
+        }
+
         stage("End") {
             steps {
                 echo "end of pipeline"
             }
         }
+
+        
+
 
     }
 }
