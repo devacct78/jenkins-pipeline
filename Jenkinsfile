@@ -16,10 +16,17 @@ pipeline {
             }
         }
 
+        stage("deploy") {
+            steps {
+                echo "end of pipelines"
+            }
+        }
+
         stage("End") {
             steps {
                 echo "end of pipeline"
             }
         }
+
     }
 }
