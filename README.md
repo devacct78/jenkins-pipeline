@@ -1,1 +1,1 @@
-[![Build Status](https://8edf-2406-7400-ce-3449-1805-f575-a368-d74f.ngrok-free.app/buildStatus/icon?job=gh-automatioon)](https://8edf-2406-7400-ce-3449-1805-f575-a368-d74f.ngrok-free.app/job/gh-automatioon/)
+[![Build Status](http://8edf-2406-7400-ce-3449-1805-f575-a368-d74f.ngrok-free.app/buildStatus/icon?job=gh-automatioon)](http://8edf-2406-7400-ce-3449-1805-f575-a368-d74f.ngrok-free.app/job/gh-automatioon/)
